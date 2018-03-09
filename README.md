@@ -1,5 +1,6 @@
-# 2018
-Website for University of Washington: POLS 501 "Advanced Political Research Design and Analysis" (Winter 2018)
+# POLS 503 "Advanced Quantitative Political Methodology" (Spring 2018)
+
+Sources and text for the website of University of Washington: POLS 503 "Advanced Quantitative Political Methodology" (Spring 2018)
 
 
 This website built using [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/). See the blogdown instructions
