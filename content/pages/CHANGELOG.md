@@ -16,4 +16,3 @@ See the [GitHub repository](https://github.com/UW-POLS503/2018/commits/master) t
 
 -   Initial draft of syllabus page
 
-
