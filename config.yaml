@@ -37,8 +37,8 @@ params:
         building: Savery
         number: '121'
         url: "https://www.washington.edu/maps/#!/sav"
-      startTime: '2018-04-02T13:30:00-07:00'
-      endTime: '2018-04-02T15:20:00-07:00'
+      startTime: '2018-03-30T13:30:00-07:00'
+      endTime: '2018-03-30T15:20:00-07:00'
       lab: true
   course:
     institution: 'University of Washington'

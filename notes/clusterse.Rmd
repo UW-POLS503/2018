@@ -1,0 +1,10 @@
+- Robust standard errors. Use the [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html)
+- Multiway Error Covariance Standard Error Clustering: https://cran.r-project.org/web/packages/multiwayvcov/index.html
+- plm https://cran.r-project.org/web/packages/plm/index.html
+- https://cran.r-project.org/web/packages/clusterSEs/clusterSEs.pdf - pairs cluster
+bootstrapped t-statistics, and wild cluster bootstrapped t-statistics (the latter two techniques
+based on Cameron, Gelbach, and Miller (2008)  are included for use with GLM, ivreg, plm (pooling or fixed effects), and mlogit models.
+
+- [clubSandwich](https://cran.r-project.org/web/packages/clubSandwich/vignettes/panel-data-CRVE.html)
+
+- Panel corrected standard errors [pcse](https://cran.r-project.org/web/packages/pcse/index.html)
