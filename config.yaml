@@ -9,11 +9,11 @@ menu:
   - {name: Pages, url: /pages/}
 params:
   useBootstrap: true
-  highlightjsCDN: //cdn.bootcss.com
+  highlightjsCDN: '//cdn.bootcss.com'
   highlightjsLang: [r, yaml]
   highlightjsTheme: github
   highlightjsVersion: 9.11.0
-  MathJaxCDN: //cdn.bootcss.com
+  MathJaxCDN: '//cdn.bootcss.com'
   MathJaxVersion: 2.7.1
   NavbarBrand:
     URL: "/"
@@ -41,7 +41,7 @@ params:
       endTime: '2018-04-02T15:20:00-07:00'
       lab: true
   course:
-    institution: University of Washington
+    institution: 'University of Washington'
     mailing_lists: [pols503a_sp18@uw.edu, csss503a_sp18@uw.edu]
     number: "POLS/CS&SS 503"
     term: Spring
@@ -52,28 +52,28 @@ params:
     "Advanced Quantitative Political Methodology" (Spring 2018)
   inprogress: false
   instructor:
-    email: jrnold@uw.edu
-    name: Jeffrey B. Arnold
+    email: 'jrnold@uw.edu'
+    name: 'Jeffrey B. Arnold'
     officeHours:
-      room: Smith 221B
+      room: "Smith 221B"
       buildingURL: "https://www.washington.edu/maps/#!/smi"
-      time: 'Th 12&ndash;1 pm, 4&ndash; 5 pm'
-    title: Assistant Professor, Political Science; Core Faculty, CSSS
-    url: https://jrnold.com
+      time: 'Th 12&ndash;1 pm, 4&ndash;5 pm'
+    title: 'Assistant Professor, Political Science; Core Faculty, CSSS'
+    url: 'https://jrnold.com'
 
   license:
     URL: 'http://creativecommons.org/licenses/by/4.0/'
-    name: Creative Commons Attribution 4.0 International License
+    name: 'Creative Commons Attribution 4.0 International License'
   sourceUrl: "https://github.com/UW-POLS501/2018/"
   ta:
-    email: chgarner@uw.edu
-    name: Calvin Garner
+    email: 'chgarner@uw.edu'
+    name: 'Calvin Garner'
     officeHours:
       room: Gowen 30
       time: 'W 12&ndash;2 pm'
       buildingURL: "https://www.washington.edu/maps/#!/gow"
-    title: Graduate Student, Political Science
-    url: https://www.polisci.washington.edu/people/calvin-garner
+    title: 'Graduate Student, Political Science'
+    url: 'https://www.polisci.washington.edu/people/calvin-garner'
 permalinks:
   page: '/:slug/'
   post: '/:year/:month/:day/:slug/'
