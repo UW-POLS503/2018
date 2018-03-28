@@ -57,7 +57,7 @@ params:
     officeHours:
       room: Smith 221B
       buildingURL: "https://www.washington.edu/maps/#!/smi"
-      time: ''
+      time: 'Th 12&ndash;1 pm, 4&ndash; 5 pm'
     title: Assistant Professor, Political Science; Core Faculty, CSSS
     url: https://jrnold.com
 
@@ -70,7 +70,7 @@ params:
     name: Calvin Garner
     officeHours:
       room: Gowen 30
-      time: ""
+      time: 'W 12&ndash;2 pm'
       buildingURL: "https://www.washington.edu/maps/#!/gow"
     title: Graduate Student, Political Science
     url: https://www.polisci.washington.edu/people/calvin-garner
