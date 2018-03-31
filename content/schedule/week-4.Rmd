@@ -1,0 +1,51 @@
+---
+title: Week 4
+date: '2018-04-16'
+tags: [Prediction, Model Fit, Cross Validation]
+week: 4
+meetings:
+- date: '2018-04-16'
+  week: 4
+  weekday: Monday
+  tags:
+  - []
+  before:
+  - title: >-
+      Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer (2015) "Prediction Policy Problems"  [DOI:10.1257/aer.p20151023](https://dx.doi.org/10.1257/aer.p20151023)
+  - title: >-
+      James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani (2013) *An Introduction to Statistical Learning with Applications in R*, 
+      Ch 5. "Resampling Methods"
+    note: >-
+      Available for free [here](http://www-bcf.usc.edu/~gareth/ISL/).
+  - title: >- 
+      Hesterberg, Tim (2015) "[What Teachers Should Know about the  Resampling in the Undergraduate Statistics Curriculum](https://arxiv.org/pdf/1411.5279.pdf)"
+    note: >-
+      Don't let its name fool you. It's a great introduction to the bootstrap.
+  after:
+  - title: >-
+      Shalizi, Cosma. "[F-Tests, R2, and Other Distractions](http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/10/lecture-10.pdf)"
+  - title: >-
+      Mullainathan, Sendhil, and Jann Spiess (2017) "Machine Learning: An Applied Econometric Approach", *Journal of Economic Perspectives* [DOI:10.1257/jep.31.2.87](10.1257/jep.31.2.87)
+    note: >-
+      This provides a starting point to discuss 
+  - title: >-
+      Shmueli, Galit (2010) "To Explain or to Predict?" *Statistical Science* [DOI:10.1214/10-STS330](htts://dx.doi.org/10.1214/10-STS330)
+  - title: >-
+      Resnick, Brian (2017) "[What a nerdy debate about p-values shows about science — and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)", vox.com.
+  - title: >-
+      Geoff Cumming (2014) "The New Statistics: Why and How", *Psychological Science* [DOI:10.1177/0956797613504966](https://dx.doi.org/10.1177/0956797613504966)
+  lab: no
+- date: '2018-04-18'
+  week: 4
+  weekday: Wednesday
+  tags:
+  - []
+  lab: no
+- date: '2018-04-20'
+  week: 4
+  weekday: Friday
+  tags:
+  - []
+  lab: yes
+---
+

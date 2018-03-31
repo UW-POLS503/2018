@@ -1,6 +1,10 @@
 baseurl: https://UW-POLS501.github.io/2018/
 ignoreFiles: [\.Rmd$, \.Rmarkdown$, _files$, _cache$]
 languageCode: en-US
+buildFuture: true
+blackfriday:
+  # otherwise DOI forward slashes become fractions
+  fractions: false
 menu:
   main:
   - {name: Schedule, url: /schedule/}

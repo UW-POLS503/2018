@@ -6,9 +6,127 @@
     <description>Recent content in Tags on POLS 503: Advanced Quantitative Political Methodology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/2018/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>/2018/tags/causal-inference/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Independence Assumption</title>
+      <link>/2018/tags/conditional-independence-assumption/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/conditional-independence-assumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Validation</title>
+      <link>/2018/tags/cross-validation/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/cross-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference in Difference</title>
+      <link>/2018/tags/difference-in-difference/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/difference-in-difference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directed Acyclic Graphs</title>
+      <link>/2018/tags/directed-acyclic-graphs/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/directed-acyclic-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments</title>
+      <link>/2018/tags/experiments/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumental Variables</title>
+      <link>/2018/tags/instrumental-variables/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/instrumental-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Fit</title>
+      <link>/2018/tags/model-fit/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/model-fit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel Data</title>
+      <link>/2018/tags/panel-data/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/panel-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential Outcomes</title>
+      <link>/2018/tags/potential-outcomes/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/potential-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>/2018/tags/prediction/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression Discontinuity</title>
+      <link>/2018/tags/regression-discontinuity/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/regression-discontinuity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection on Observables</title>
+      <link>/2018/tags/selection-on-observables/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/tags/selection-on-observables/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

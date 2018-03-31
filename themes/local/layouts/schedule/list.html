@@ -5,46 +5,52 @@
 
   {{ .Content }}
 
-  <hr>
-
-  {{ range .Params.weeks }}
-    <h3>Week {{ .week }}</h3>
-
-    {{ range .classes }}
-      <h5>{{ dateFormat "Monday, Jan 2, 2006" .date }} <small>{{ if .lab }}Lab{{ end }}</small></h5>
-      <p>{{ if .description }} {{- .description | markdownify -}} {{ end }}</p>
-      {{ if .readings }}
-        <p>
-        <strong>Readings before:</strong>
-          <ul>
-            {{ range .readings }}
-              <li>{{- . | markdownify -}}</li>
-            {{- end -}}
-          </ul>
-        </p>
-      {{ end }}
-      {{ if .inClass }}
-        <p>
-          <strong>In class:</strong>
-          <ul>
-            {{ range .inClass }}
-              <li>{{- . | markdownify -}}</li>
-            {{ end }}
-          </ul>
-        </p>
-      {{ end }}
-      {{ if .after }}
-        <p>
-          <strong>Optional readings after:</strong>
-          <ul>
-            {{ range .after }}
-              <li>{{- . | markdownify -}}</li>
-            {{ end }}
-          </ul>
-        </p>
-      {{ end }}
-    {{ end}}
+  {{ range .Data.Pages.ByDate }}
     <hr>
+    <h3><a href="{{ .Permalink }}">Week {{ .Params.week }}</a></h3>
+
+    {{ with .Params.tags }}
+    <p>
+      Topics: {{ delimit . "; " }}
+    </p>
+    {{ end }}
+
+    {{ range .Params.meetings }}
+
+      <hr>
+      <h4>{{ dateFormat "Jan 2 (Monday)" .date }}</h2>
+
+      <p>
+        <p>
+          <emph>Topics</emph>: {{ delimit .tags "; " }}
+        </p>
+
+        <h5>Readings</h5>
+        <p>
+        {{ with .before }}
+          <ul>
+          {{ range . }}
+            {{ partial "list-reading" . }}
+          {{ end }}
+          </ul>
+        {{ else }}
+        None
+        {{ end }}
+        <p>
+       <p>
+        {{ with .after }}
+          <h5>Optional</h5>
+          <ul>
+          {{ range . }}
+            {{ partial "list-reading" . }}
+          {{ end }}
+          </ul>
+        {{ else }}
+        {{ end }}
+        <p>
+
+    {{ end }}
+
   {{ end }}
 
 </div>

@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/schedule/week-10/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-9/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-8/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-7/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-6/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-5/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-4/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-3/</loc>
+    <lastmod>2018-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-2/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-1/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/assignments/</loc>
   </url>
   
@@ -16,7 +66,44 @@
   </url>
   
   <url>
+    <loc>/2018/tags/causal-inference/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/conditional-independence-assumption/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/2018/schedule/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/cross-validation/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/difference-in-difference/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/directed-acyclic-graphs/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/experiments/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -40,6 +127,18 @@
   </url>
   
   <url>
+    <loc>/2018/tags/instrumental-variables/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/model-fit/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/2018/pages/r4ds-notes/</loc>
   </url>
   
@@ -49,6 +148,7 @@
   
   <url>
     <loc>/2018/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -57,11 +157,42 @@
   </url>
   
   <url>
+    <loc>/2018/tags/panel-data/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/potential-outcomes/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/prediction/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/2018/pages/references/</loc>
   </url>
   
   <url>
+    <loc>/2018/tags/regression-discontinuity/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/tags/selection-on-observables/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/2018/tags/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
