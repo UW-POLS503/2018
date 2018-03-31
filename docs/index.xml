@@ -108,7 +108,7 @@
       
       <guid>/2018/pages/changelog/</guid>
       <description> See the GitHub repository the history of changes.
-2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule.  2018-03-27  Add office hours for Jeff and Calvin.  2018-03-26  Updated onboarding instructions.  2018-03-08  Initial draft of syllabus page  </description>
+2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule. Remove r4ds notes page  2018-03-27  Add office hours for Jeff and Calvin.  2018-03-26  Updated onboarding instructions.  2018-03-08  Initial draft of syllabus page  </description>
     </item>
     
     <item>
@@ -163,16 +163,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
       <guid>/2018/pages/install/</guid>
       <description>Installing or Updating R Install R The R website is … special. Since you probably don’t know or care what a mirror is, here are links to the
  Go to the R Project website Choose the Download and install R your operation system:  Mac: Download R-3.4.3.pkg Windows: First click on base and then on Download R 3.4.3 for Windows    Upgrade R If you already have R installed, to check that you have the newest version of R, run</description>
-    </item>
-    
-    <item>
-      <title>Notes on R for Data Science</title>
-      <link>/2018/pages/r4ds-notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/r4ds-notes/</guid>
-      <description>Visualization Other resources:
- All the graph things Stat 545. Jenny Bryan.   Tibbles Why might you want to create non-syntactic variable names? Since variable names are often used as in plots (e.g. axis-titles) or headers in tables, where having spaces or other characters that are invalid R variable names is useful. Those functions will have ways to use text other than the column, but using the non-syntactic variable name can be convenient.</description>
     </item>
     
     <item>

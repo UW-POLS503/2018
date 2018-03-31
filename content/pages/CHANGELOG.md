@@ -7,7 +7,7 @@ See the [GitHub repository](https://github.com/UW-POLS503/2018/commits/master) t
 ## 2018-03-30
 
 -   Added readings for weeks 2--10 to the schedule.
-
+-   Remove r4ds notes page
 
 ## 2018-03-27
 
