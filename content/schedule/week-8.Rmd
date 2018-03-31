@@ -11,6 +11,10 @@ meetings:
   tags:
   - []
   before: 
+  - title: >-
+      *Mastering 'Metrics*, Ch. 3: "Instrumental Variables"
+  - title: >-
+      *Mastering 'Metrics*, Ch. 6.4: "Rustling Sheepskin in the Lone Star State"
   - title: "*Real Stats*, Ch. 11. Regression Discontinuity: Looking for Jumps in Data"
   after:
   - title: >-

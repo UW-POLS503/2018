@@ -11,6 +11,7 @@ meetings:
   weekday: Monday
   before:
     - title: "*Mastering 'Metrics*, Ch. 2: \"Regression\""
+    - title: "*Mastering 'Metrics*, Ch. 6.1: \"Schooling, Experience, and Earnings\""
   after: []
     # - https://wol.iza.org/uploads/articles/186/pdfs/matching-as-regression-estimator.pdf
     # - https://chrisblattman.com/2010/10/27/the-cardinal-sin-of-matching/
