@@ -10,7 +10,6 @@ menu:
   - {name: Syllabus, url: "/"}
   - {name: Schedule, url: /schedule/}
   - {name: Assignments, url: /assignments/}
-  - {name: Projects, url: /projects/}
   - {name: Pages, url: /pages/}
 params:
   useBootstrap: true
