@@ -7,6 +7,13 @@ tags:
 - directed acyclic graphs
 - experiments
 week: 5
+due: 
+- title: "Project Proposal"
+  url: "/projects/proposal/"
+  date: "2018-04-25T16:30:00"
+- title: "Assignment 2"
+  date: 2018-04-23 16:30:00
+  url: "/assignments/assignment-2/"  
 meetings:
 - date: '2018-04-23'
   week: 5

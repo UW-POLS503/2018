@@ -14,7 +14,16 @@
       Topics: {{ delimit . "; " }}
     </p>
     {{ end }}
-
+    {{ with .Params.due }}
+    <h4>Due </h4>
+    <p>
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .url | relURL }}">{{ .title }}</a> {{ dateFormat "Jan 2, 3:04 PM" .date }}</li>
+        {{ end }}
+      </ul>
+    </p>
+    {{ end }}
     {{ range .Params.meetings }}
 
       <hr>

@@ -12,9 +12,8 @@ meetings:
   lab: no
   before:
   - title: "*Real Stats*, Ch. 5: \"Multivariate OLS: Where the Action Is\""
-  after:
+  after: []
   # - https://www.aeaweb.org/articles?id=10.1257/jep.15.4.57
-  - title: 
 - date: '2018-04-11'
   week: 3
   weekday: Wednesday

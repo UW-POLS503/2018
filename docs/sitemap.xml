@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/projects/proposal/</loc>
+    <lastmod>2018-04-25T16:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/projects/draft-submission/</loc>
+    <lastmod>2018-05-28T16:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/projects/peer_review/</loc>
+    <lastmod>2018-06-01T13:30:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/projects/final-submission/</loc>
+    <lastmod>2018-06-07T23:59:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/schedule/week-11/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/schedule/week-10/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -79,7 +104,7 @@
   
   <url>
     <loc>/2018/schedule/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -101,17 +126,14 @@
   </url>
   
   <url>
-    <loc>/2018/project/draft-submission/</loc>
-  </url>
-  
-  <url>
     <loc>/2018/tags/experiments/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/2018/project/final-submission/</loc>
+    <loc>/2018/projects/</loc>
+    <lastmod>2018-04-25T16:30:00-07:00</lastmod>
   </url>
   
   <url>
@@ -128,10 +150,6 @@
   
   <url>
     <loc>/2018/pages/install/</loc>
-  </url>
-  
-  <url>
-    <loc>/2018/project/</loc>
   </url>
   
   <url>
@@ -152,7 +170,7 @@
   
   <url>
     <loc>/2018/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-25T16:30:00-07:00</lastmod>
   </url>
   
   <url>
@@ -164,14 +182,6 @@
     <loc>/2018/tags/panel-data/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/2018/project/peer_review/</loc>
-  </url>
-  
-  <url>
-    <loc>/2018/project/proposal/</loc>
   </url>
   
   <url>

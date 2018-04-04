@@ -1,7 +1,5 @@
 ---
-title: "Instructions for the Final Project"
-author: "Jeffrey Arnold"
-date: "4/3/2018"
+title: "Final Project"
 output: html_document
 ---
 

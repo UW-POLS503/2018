@@ -5,6 +5,10 @@ tags:
 - panel data
 - difference-in-difference
 week: 7
+due:
+- title: "Assignment 4"
+  date: 2018-04-23 16:30:00
+  url: "/assignments/assignment-4/" 
 meetings:
 - date: '2018-05-07'
   week: 7

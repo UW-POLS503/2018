@@ -1,8 +1,8 @@
 ---
-title: "Peer Review"
-author: "Jeffrey Arnold"
-date: "4/4/2018"
+title: "Proposal"
+date: "2018-04-25T16:30:00-07:00"
 output: html_document
+weight: 20
 ---
 
 Propose a final project. 
@@ -12,6 +12,7 @@ Propose a final project.
 1.  Open an issue on that student's project repository, e.g. `https://github.com/studnet/pols-503-2018-project/` titled "Proposal"
 2.  Since the proposal is short, you can write your proposal in the comment. Alternatively attach a file or reference a text file in your repository.
 3.  Assign the issue to the instructors.
+4.  After receiving comments from the instructors, the student must reply in a comment to address these comments and suggestions.
 
 ## Instructions
 

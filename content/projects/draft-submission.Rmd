@@ -1,8 +1,9 @@
 ---
 title: "Draft Submission"
 author: "Jeffrey Arnold"
-date: "4/4/2018"
+date: "2018-05-28T16:30:00-07:00"
 output: html_document
+weight: 40
 ---
 
 Submit a draft with the current state of the research project. See the final project page for details on expectations and format. 

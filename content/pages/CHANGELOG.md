@@ -7,6 +7,8 @@ See the [GitHub repository](https://github.com/UW-POLS503/2018/commits/master) t
 ## 2018-04-04
 
 -   Add instructions for final project
+-   Add dates for project assignments to the schedule
+-   Add dates for assignments to schedule
 
 ## 2018-04-02
 

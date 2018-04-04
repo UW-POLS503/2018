@@ -1,8 +1,9 @@
 ---
 title: "Final Submission"
 author: "Jeffrey Arnold"
-date: "4/4/2018"
+date: "2018-06-07T23:59:00-07:00"
 output: html_document
+weight: 100
 ---
 
 Submit the final research project. See the final project page for details on expectations and format.

@@ -6,10 +6,19 @@
     <description>Recent content in Course Schedule on POLS 503: Advanced Quantitative Political Methodology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/2018/schedule/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week 11</title>
+      <link>/2018/schedule/week-11/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-11/</guid>
+      <description>Finals week.</description>
+    </item>
     
     <item>
       <title>Week 10</title>
