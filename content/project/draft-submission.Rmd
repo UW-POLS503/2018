@@ -1,0 +1,18 @@
+---
+title: "Draft Submission"
+author: "Jeffrey Arnold"
+date: "4/4/2018"
+output: html_document
+---
+
+Submit a draft with the current state of the research project. See the final project page for details on expectations and format. 
+
+No late assignments will be accepted. If no issue is opened, then the current state of the repository will be reviewed.
+
+
+
+## Submission
+
+1.  Open an issue on that student's project repository, e.g. `https://github.com/studnet/pols-503-2018-project/` titled "Draft submission"
+2.  In the comment of the issue discuss the current state of the project, what is left to be done, and what problems the student has had.
+3.  Assign the issue to the instructors.

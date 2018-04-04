@@ -1,0 +1,21 @@
+---
+title: "Peer Review"
+author: "Jeffrey Arnold"
+date: "4/4/2018"
+output: html_document
+---
+
+Review the assigned students project.
+
+To submit:
+
+1.  Open an issue on that student's project repository, e.g. `https://github.com/studnet/pols-503-2018-project/` titled "Peer Review"
+2.  Provide the peer review in the comments. Note that you can attach files to comments.
+3.  Mention the instructors.
+
+The reviewer should
+
+1.  Confirm that the code is reproducible
+2.  Comment on the methodology and design of the analysis.
+
+The reviewee should reply in a comment that addresses the comments of the reviewer.

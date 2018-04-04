@@ -4,6 +4,10 @@ title: CHANGELOG
 
 See the [GitHub repository](https://github.com/UW-POLS503/2018/commits/master) the history of changes.
 
+## 2018-04-04
+
+-   Add instructions for final project
+
 ## 2018-04-02
 
 -   Remove old schedule / project

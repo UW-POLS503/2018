@@ -101,9 +101,17 @@
   </url>
   
   <url>
+    <loc>/2018/project/draft-submission/</loc>
+  </url>
+  
+  <url>
     <loc>/2018/tags/experiments/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/project/final-submission/</loc>
   </url>
   
   <url>
@@ -119,11 +127,11 @@
   </url>
   
   <url>
-    <loc>/2018/pages/git-project-workflow/</loc>
+    <loc>/2018/pages/install/</loc>
   </url>
   
   <url>
-    <loc>/2018/pages/install/</loc>
+    <loc>/2018/project/</loc>
   </url>
   
   <url>
@@ -156,6 +164,14 @@
     <loc>/2018/tags/panel-data/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2018/project/peer_review/</loc>
+  </url>
+  
+  <url>
+    <loc>/2018/project/proposal/</loc>
   </url>
   
   <url>

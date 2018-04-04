@@ -1,0 +1,21 @@
+---
+title: "Draft"
+author: "Jeffrey Arnold"
+date: "4/4/2018"
+output: html_document
+---
+
+Present whatever is complete in your analysis.
+No late assignments will be accepted. 
+We will review whatever has been completed by this time.
+
+To submit:
+
+1.  Open an issue in your repository titled "Submit Draft"
+2.  In the text of that issue 
+
+    - describe the current state of the project.
+    - describe what has yet to be done.
+
+3.  Assign the issue to the instructors.
+

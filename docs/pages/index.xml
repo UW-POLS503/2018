@@ -17,7 +17,7 @@
       
       <guid>/2018/pages/changelog/</guid>
       <description> See the GitHub repository the history of changes.
-2018-04-02  Remove old schedule / project  2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule. Remove r4ds notes page  2018-03-27  Add office hours for Jeff and Calvin.  2018-03-26  Updated onboarding instructions.  2018-03-08  Initial draft of syllabus page  </description>
+2018-04-04  Add instructions for final project  2018-04-02  Remove old schedule / project  2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule. Remove r4ds notes page  2018-03-27  Add office hours for Jeff and Calvin.  2018-03-26  Updated onboarding instructions.  2018-03-08  Initial draft of syllabus page  </description>
     </item>
     
     <item>
@@ -52,16 +52,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
  Scroll down to the Assignments section, click on the link to the assignment under Instructions and Submissions.
  Click on the Fork button to fork the repository to your GitHub account.
  Click Clone or download.</description>
-    </item>
-    
-    <item>
-      <title>Git: Project Submission and Workflow</title>
-      <link>/2018/pages/git-project-workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/git-project-workflow/</guid>
-      <description>For the project assignments, each student has a repository named UW-POLS501/:username where :username is the GitHub username of the student. This does not need to be forked. The student works directly on that repository, and submits assignments by opening an issue on UW-POLS501/:username/issue.
- {&#34;x&#34;:{&#34;diagram&#34;:&#34;sequenceDiagram\n participant remote as UW-POLS501/student\n participant local as local repository\n remote-local: Clone repository\n Note over remote: Assignment 1\n loop Until completed\n local-local: Work and commit\n local-remote: Push changes\n end\n remote-remote: Open issue to submit\n Note over remote: Assignment 2\n loop Until completed\n local-local: Work and commit\n local-remote: Push changes\n end\n remote-remote: Open issue to submit&#34;</description>
     </item>
     
     <item>
