@@ -15,11 +15,13 @@
     </p>
     {{ end }}
     {{ with .Params.due }}
-    <h4>Due </h4>
+    <h4>Due</h4>
     <p>
       <ul>
         {{ range . }}
-        <li><a href="{{ .url | relURL }}">{{ .title }}</a> {{ dateFormat "Jan 2, 3:04 PM" .date }}</li>
+          <li>
+            <a href="{{ .url | relURL }}">{{ .title }}</a> {{ dateFormat "Jan 2, 3:04 PM" .date }}
+          </li>
         {{ end }}
       </ul>
     </p>
@@ -27,40 +29,35 @@
     {{ range .Params.meetings }}
 
       <hr>
-      <h4>{{ dateFormat "Jan 2 (Monday)" .date }}</h2>
+      <h4>{{ dateFormat "Jan 2 (Monday)" .date }}</h4>
 
       <p>
+        <emph>Topics</emph>: {{ delimit .tags "; " }}
+      </p>
+
+      <h5>Readings</h5>
+      <p>
+          {{ with .before }}
+            <ul>
+              {{ range . }}
+                {{ partial "list-reading" . }}
+              {{ end }}
+            </ul>
+          {{ else }}
+            None
+          {{ end }}
+      </p>
+      {{ with .after }}
+        <h5>Optional</h5>
         <p>
-          <emph>Topics</emph>: {{ delimit .tags "; " }}
+          <ul>
+          {{ range . }}
+            {{ partial "list-reading" . }}
+          {{ end }}
+          </ul>
         </p>
-
-        <h5>Readings</h5>
-        <p>
-        {{ with .before }}
-          <ul>
-          {{ range . }}
-            {{ partial "list-reading" . }}
-          {{ end }}
-          </ul>
-        {{ else }}
-        None
-        {{ end }}
-        <p>
-       <p>
-        {{ with .after }}
-          <h5>Optional</h5>
-          <ul>
-          {{ range . }}
-            {{ partial "list-reading" . }}
-          {{ end }}
-          </ul>
-        {{ else }}
-        {{ end }}
-        <p>
-
+      {{ end }}
     {{ end }}
-
   {{ end }}
-
 </div>
 {{ end }}

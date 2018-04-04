@@ -21,5 +21,3 @@ The proposal should include the following:
 1. Discuss the research question, data, design, and expected methods.
 2. Discuss whether all data for the project is available. Given the compressed time-frame of a quarter, the student should have all necessary data on hand, and ideally the project should minimize the amount of data wrangling.
 3.  Discuss current and expected difficulties and problems with the project. This is an opportunity to raise and resolve problems early.
-
-

@@ -87,10 +87,10 @@ To ensure readability of the paper, authors should choose a notation that makes 
 
 ## Reproducibility
 
-#.  Code must run without error and successfully replicate.
-#.  The repositority must contain REAMDE file which describes the contents of the repositories, software and data dependencies and installation instructions, and instructions on how to reproduce the analysis.
-#.  If the analysis requires data too large to include in the repository, instructions on how to obtain the necessary must be included. If possible, a script to automate the process is preferred.
-#.  If the analysis uses data that cannot be distributed for privacy or intellectual property reasons, it must be documented. The student must discuss with the instructor prior to submission.
+1.  Code must run without error and successfully replicate.
+1.  The repository must contain a REAMDE.md file which describes the contents of the repositories, software and data dependencies and installation instructions, and instructions on how to reproduce the analysis.
+1.  If the analysis requires data too large to include in the repository, instructions on how to obtain the necessary must be included. If possible, a script to automate the process is preferred.
+1.  If the analysis uses data that cannot be distributed for privacy or intellectual property reasons, it must be documented. The student must discuss with the instructor prior to submission.
 
 
 ## Organization
@@ -110,7 +110,7 @@ To ensure readability of the paper, authors should choose a notation that makes 
 To get started on the project.
 
 1. Fork https://github.com/UW-POLS503/pols-503-2018-projects to your own account, e.g. https://github.com/jrnold/2018-503-208-projects.
-2. Edit `README.md` as approriate removing instructions and adding your name and title of your project.
+2. Edit `README.md` as appropriate removing instructions and adding your name and title of your project.
 
 Work on the project within your fork.
 
@@ -150,7 +150,7 @@ However, they do provide examples of effectively combining text, code, and outpu
 -  [Words Growing or Shrinking in Hacker News Titles: A Tidy Analysis](http://varianceexplained.org/r/hn-trends/)
 -  [Gender and Verbs across 10,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/)
 -  Brookman, David, and Kalla, Joshua, and Aronow, Peter. 2014. [Irregularities in LaCour (2014)](https://stanford.edu/~dbroock/broockman_kalla_aronow_lg_irregularities.pdf) This
-   is an unusual document that provides evidence of research fraud in the Lacour and Green paper.
+   is an unusual document that provides evidence of research fraud in the LaCour and Green paper.
    However, note how it uses knitr and R to do so. The paper is making and argument,
    with points supported by figures and results, with the code that produced them also visible.
-- [Mapping the GDELT data and some russian protests too](https://www.r-bloggers.com/mapping-the-gdelt-data-and-some-russian-protests-too)
+- [Mapping the GDELT data and some Russian protests too](https://www.r-bloggers.com/mapping-the-gdelt-data-and-some-russian-protests-too)

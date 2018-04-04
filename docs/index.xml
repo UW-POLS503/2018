@@ -23,10 +23,10 @@ Submission Open an issue on that student’s project repository, e.g. https://gi
     
     <item>
       <title>Draft Submission</title>
-      <link>/2018/projects/draft-submission/</link>
+      <link>/2018/projects/draft/</link>
       <pubDate>Mon, 28 May 2018 16:30:00 -0700</pubDate>
       
-      <guid>/2018/projects/draft-submission/</guid>
+      <guid>/2018/projects/draft/</guid>
       <description>Submit a draft with the current state of the research project. See the final project page for details on expectations and format.
 No late assignments will be accepted. If no issue is opened, then the current state of the repository will be reviewed.
 Submission Open an issue on that student’s project repository, e.g. https://github.com/studnet/pols-503-2018-project/ titled “Draft submission” In the comment of the issue discuss the current state of the project, what is left to be done, and what problems the student has had.</description>
@@ -217,17 +217,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
       <description>Please complete the following before Wednesday, March 28, 2018.
 Sign up for our Slack workplace, https://uwpolsmethods.slack.com/. We will use this for announcements, and asking and answering questions in this course. You should have received an invite. If not email the instructor to receive one.
  Tell us about yourself: Complete the pre-course survey. If you are registered for the course, you should have received an email. If not, you can find a link pinned on the #announcements channel of Slack.</description>
-    </item>
-    
-    <item>
-      <title>References</title>
-      <link>/2018/pages/references/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/references/</guid>
-      <description>Articles and books references in this course. Download these references as bibtex file here.
-Angrist, Joshua D, and Jörn-Steffen Pischke. 2010. “The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con Out of Econometrics.” Journal of Economic Perspectives 24 (2). American Economic Association:3–30. https://doi.org/10.1257/jep.24.2.3.
- Bailey, Michael A., Anton Strezhnev, and Erik Voeten. 2016. “Estimating Dynamic State Preferences from United Nations Voting Data.” Journal of Conflict Resolution 61 (2).</description>
     </item>
     
   </channel>
