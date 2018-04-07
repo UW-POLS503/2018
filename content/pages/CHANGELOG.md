@@ -4,6 +4,11 @@ title: CHANGELOG
 
 See the [GitHub repository](https://github.com/UW-POLS503/2018/commits/master) the history of changes.
 
+## 2018-04-06
+
+-   Move date of assignment 1 to Fri, April 13th
+-   Fix links for all assignments on schedule
+
 ## 2018-04-04
 
 -   Add instructions for final project

@@ -6,7 +6,7 @@ tags:
 week: 8
 due:
 - title: Assignment 5
-  url: "/projects/assignment-5/"
+  url: "https://github.com/UW-POLS503/assignment-2018-05"
   date: 2018-05-14 16:30:00
 meetings:
 - date: '2018-05-14'
