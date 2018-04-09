@@ -1,0 +1,36 @@
+---
+title: "Week 1"
+date: '2018-03-26'
+tags: []
+week: 1
+meetings:
+- date: '2018-03-26'
+  weekday: Monday
+  tags:
+  - Syllabus
+  - Introduction
+  lab: no
+- date: '2018-03-28'
+  weekday: Wednesday
+  before:
+  - title: "*Real Stats*, \"Preface\""
+  - title: "*Real Stats*, Ch. 1: \"Quest for Causality\""
+  - title: "*Real Stats*, Ch. 2: \"Stats in the Wild: Good Data Practices\""
+  - title: "*Real Stats*, Ch. 2: \"Bivariate OLS: The Foundation of Statistical Analysis\""
+  - title: "*Real Stats*, Appendix: \"Math and Probability Background\""
+  after: []
+  inclass: []
+  tags:
+  - Conditional expectation functions (CEF)
+  - Bivariate OLS
+  - Estimator properties
+  lab: no
+- date: '2018-03-30'
+  weekday: Friday
+  before: []
+  after: []
+  inclass: []
+  tags: []
+  lab: yes
+---
+

@@ -7,15 +7,14 @@ title: "POLS/CS&SS 503 (Spring 2018)"
 
 This course is the second of the two-quarter quantitative methods sequence for PhD students in the social sciences.
 
-
-Some topics convered in this course are:
+Some topics covered in this course are:
 
 - Linear Regression
   
   - Assumptions
   - Mechanics (linear algebra)
   - Inference
-  - Diagnostistics
+  - Diagnostics
   - Robust and clustered standard errors
 
 - Model vs. design-based inference
@@ -44,7 +43,7 @@ TODO ...
 
 ### Prerequisites
 
-This course is intended to be taken after POLS/CSSS 501 and will be taught with the assumption that students have an understanding of the material in that course. Contact the [instructor](mail:jrnold@uw.edu) if you would like to take this course but did not take 503. See the [POLS 501](https://github.com/UW-POLS501/2018) site for what was covered in that course.
+This course is intended to be taken after POLS/CSSS 501 and will be taught with the assumption that students have an understanding of the material in that course. Contact the [instructor](mailto:jrnold@uw.edu) if you would like to take this course but did not take 503. See the [POLS 501](https://github.com/UW-POLS501/2018) site for what was covered in that course.
 
 - **Introductory statistics**: inference, hypothesis testing, linear regression.
 - **R**: We will use the R programming language in this course. POLS/CSSS 501 introduced R for data wrangling and visualization. Students are expected to be familiar with R *prior* to taking this course or be willing to spend extra time learning it. I suggest [R for Data Science](http://r4ds.had.co.nz/) or [DataCamp](https://www.datacamp.com/). In particular, this course will heavily use the  [tidyverse](https://www.tidyverse.org/) packages (ggplot2, dplyr, ...).

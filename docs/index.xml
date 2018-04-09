@@ -6,12 +6,17 @@
     <description>Recent content in POLS/CS&amp;SS 503 (Spring 2018) on POLS 503: Advanced Quantitative Political Methodology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Wed, 25 Apr 2018 16:30:00 -0700</lastBuildDate>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
     
 	<atom:link href="/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-06-01/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -71,19 +76,88 @@
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-05-18/</guid>
+=======
+      <title>Proposal</title>
+      <link>/2018/projects/proposal/</link>
+      <pubDate>Wed, 25 Apr 2018 16:30:00 -0700</pubDate>
+      
+      <guid>/2018/projects/proposal/</guid>
+      <description>Propose a final project.
+Submission Open an issue on that student’s project repository, e.g. https://github.com/studnet/pols-503-2018-project/ titled “Proposal” Since the proposal is short, you can write your proposal in the comment. Alternatively attach a file or reference a text file in your repository. Assign the issue to the instructors. After receiving comments from the instructors, the student must reply in a comment to address these comments and suggestions.   Instructions The proposal should include the following:</description>
+    </item>
+    
+    <item>
+      <title>Draft Submission</title>
+      <link>/2018/projects/draft/</link>
+      <pubDate>Mon, 28 May 2018 16:30:00 -0700</pubDate>
+      
+      <guid>/2018/projects/draft/</guid>
+      <description>Submit a draft with the current state of the research project. See the final project page for details on expectations and format.
+No late assignments will be accepted. If no issue is opened, then the current state of the repository will be reviewed.
+Submission Open an issue on that student’s project repository, e.g. https://github.com/studnet/pols-503-2018-project/ titled “Draft submission” In the comment of the issue discuss the current state of the project, what is left to be done, and what problems the student has had.</description>
+    </item>
+    
+    <item>
+      <title>Peer Review</title>
+      <link>/2018/projects/peer_review/</link>
+      <pubDate>Fri, 01 Jun 2018 13:30:00 -0700</pubDate>
+      
+      <guid>/2018/projects/peer_review/</guid>
+      <description>Review the assigned students project.
+To submit:
+Open an issue on that student’s project repository, e.g. https://github.com/studnet/pols-503-2018-project/ titled “Peer Review” Provide the peer review in the comments. Note that you can attach files to comments. Mention the instructors.  The reviewer should
+Confirm that the code is reproducible Comment on the methodology and design of the analysis.  The reviewee should reply in a comment that addresses the comments of the reviewer.</description>
+    </item>
+    
+    <item>
+      <title>Final Submission</title>
+      <link>/2018/projects/final-submission/</link>
+      <pubDate>Thu, 07 Jun 2018 23:59:00 -0700</pubDate>
+      
+      <guid>/2018/projects/final-submission/</guid>
+      <description>Submit the final research project. See the final project page for details on expectations and format.
+No late assignments will be accepted. If no issue is opened, then the current state of the repository will be reviewed.
+Submission Open an issue on that student’s project repository, e.g. https://github.com/studnet/pols-503-2018-project/ titled “Final submission” In the comment of the issue indicate how you have resolved any and all issues raised by comments of the instructor or peer review.</description>
+    </item>
+    
+    <item>
+      <title>Week 11</title>
+      <link>/2018/schedule/week-11/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-11/</guid>
+      <description>Finals week.</description>
+    </item>
+    
+    <item>
+      <title>Week 10</title>
+      <link>/2018/schedule/week-10/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-10/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-05-16/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-05-16/</guid>
+=======
+      <title>Week 9</title>
+      <link>/2018/schedule/week-9/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-9/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-05-14/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
@@ -107,19 +181,35 @@
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-05-09/</guid>
+=======
+      <title>Week 8</title>
+      <link>/2018/schedule/week-8/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-8/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-05-07/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-05-07/</guid>
+=======
+      <title>Week 7</title>
+      <link>/2018/schedule/week-7/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-7/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-05-04/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
@@ -161,19 +251,35 @@
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-04-25/</guid>
+=======
+      <title>Week 6</title>
+      <link>/2018/schedule/week-6/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-6/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-04-23/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-04-23/</guid>
+=======
+      <title>Week 5</title>
+      <link>/2018/schedule/week-5/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-5/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-04-20/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
@@ -215,10 +321,18 @@
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-04-11/</guid>
+=======
+      <title>Week 4</title>
+      <link>/2018/schedule/week-4/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-4/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-04-09/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
@@ -242,10 +356,18 @@
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-04-04/</guid>
+=======
+      <title>Week 3</title>
+      <link>/2018/schedule/week-3/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-3/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-04-02/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
@@ -269,15 +391,30 @@
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-03-28/</guid>
+=======
+      <title>Week 2</title>
+      <link>/2018/schedule/week-2/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-2/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>/2018/schedule/2018-03-26/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/2018-03-26/</guid>
+=======
+      <title>Week 1</title>
+      <link>/2018/schedule/week-1/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-1/</guid>
+>>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
@@ -287,8 +424,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/2018/pages/changelog/</guid>
-      <description> See the GitHub repository the history of changes.
-2018-03-26  Updated onboarding insructions  2018-03-08  Initial draft of syllabus page  </description>
+      <description>See the GitHub repository the history of changes.
+2018-04-06  Move date of assignment 1 to Fri, April 13th Fix links for all assignments on schedule  2018-04-04  Add instructions for final project Add dates for project assignments to the schedule Add dates for assignments to schedule  2018-04-02  Remove old schedule / project  2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule. Remove r4ds notes page  2018-03-27  Add office hours for Jeff and Calvin.</description>
     </item>
     
     <item>
@@ -326,16 +463,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
     </item>
     
     <item>
-      <title>Git: Project Submission and Workflow</title>
-      <link>/2018/pages/git-project-workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/git-project-workflow/</guid>
-      <description>For the project assignments, each student has a repository named UW-POLS501/:username where :username is the GitHub username of the student. This does not need to be forked. The student works directly on that repository, and submits assignments by opening an issue on UW-POLS501/:username/issue.
- {&#34;x&#34;:{&#34;diagram&#34;:&#34;sequenceDiagram\n participant remote as UW-POLS501/student\n participant local as local repository\n remote-local: Clone repository\n Note over remote: Assignment 1\n loop Until completed\n local-local: Work and commit\n local-remote: Push changes\n end\n remote-remote: Open issue to submit\n Note over remote: Assignment 2\n loop Until completed\n local-local: Work and commit\n local-remote: Push changes\n end\n remote-remote: Open issue to submit&#34;</description>
-    </item>
-    
-    <item>
       <title>Installing R</title>
       <link>/2018/pages/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -343,16 +470,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
       <guid>/2018/pages/install/</guid>
       <description>Installing or Updating R Install R The R website is … special. Since you probably don’t know or care what a mirror is, here are links to the
  Go to the R Project website Choose the Download and install R your operation system:  Mac: Download R-3.4.3.pkg Windows: First click on base and then on Download R 3.4.3 for Windows    Upgrade R If you already have R installed, to check that you have the newest version of R, run</description>
-    </item>
-    
-    <item>
-      <title>Notes on R for Data Science</title>
-      <link>/2018/pages/r4ds-notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/r4ds-notes/</guid>
-      <description>Visualization Other resources:
- All the graph things Stat 545. Jenny Bryan.   Tibbles Why might you want to create non-syntactic variable names? Since variable names are often used as in plots (e.g. axis-titles) or headers in tables, where having spaces or other characters that are invalid R variable names is useful. Those functions will have ways to use text other than the column, but using the non-syntactic variable name can be convenient.</description>
     </item>
     
     <item>
@@ -364,17 +481,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
       <description>Please complete the following before Wednesday, March 28, 2018.
 Sign up for our Slack workplace, https://uwpolsmethods.slack.com/. We will use this for announcements, and asking and answering questions in this course. You should have received an invite. If not email the instructor to receive one.
  Tell us about yourself: Complete the pre-course survey. If you are registered for the course, you should have received an email. If not, you can find a link pinned on the #announcements channel of Slack.</description>
-    </item>
-    
-    <item>
-      <title>References</title>
-      <link>/2018/pages/references/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/references/</guid>
-      <description>Articles and books references in this course. Download these references as bibtex file here.
-Angrist, Joshua D, and Jörn-Steffen Pischke. 2010. “The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con Out of Econometrics.” Journal of Economic Perspectives 24 (2). American Economic Association:3–30. https://doi.org/10.1257/jep.24.2.3.
- Bailey, Michael A., Anton Strezhnev, and Erik Voeten. 2016. “Estimating Dynamic State Preferences from United Nations Voting Data.” Journal of Conflict Resolution 61 (2).</description>
     </item>
     
   </channel>

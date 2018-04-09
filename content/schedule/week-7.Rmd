@@ -1,0 +1,42 @@
+---
+title: Week 7
+date: '2018-05-07'
+tags:
+- panel data
+- difference-in-difference
+week: 7
+due:
+- title: "Assignment 4"
+  date: 2018-04-23 16:30:00
+  url: "https://github.com/UW-POLS503/assignment-2018-04"
+meetings:
+- date: '2018-05-07'
+  week: 7
+  weekday: Monday
+  before:
+    - title: "*Mastering 'Metrics*, Ch. 3: \"Difference-in-Differences\""
+    - title: "*Real Stats*, Ch. 8. \"Using Fixed Effects Models to Fight Endogeneity\""
+  after:
+    - title: >-
+        Cameron, A. Colin, and Douglas L. Miller (2015) "A Practitioner’s Guide to Cluster-Robust Inference" *Journal of Human Resources* [DOI:10.3368/jhr.50.2.317](https://dx.doi.org/10.3368/jhr.50.2.317)
+    - title: >-
+        Clark, Michael "[Clustered Data](http://m-clark.github.io/docs/clustered/introduction.html)"
+    - title: >
+        *Real Stats*, Ch. 15. "Advanced Panel Data"
+  tags:
+  - []
+  lab: no
+- date: '2018-05-09'
+  week: 7
+  weekday: Wednesday
+  tags:
+  - []
+  lab: no
+- date: '2018-05-11'
+  week: 7
+  weekday: Friday
+  tags:
+  - []
+  lab: yes
+---
+

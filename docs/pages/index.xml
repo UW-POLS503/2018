@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/2018/pages/changelog/</guid>
-      <description> See the GitHub repository the history of changes.
-2018-03-26  Updated onboarding insructions  2018-03-08  Initial draft of syllabus page  </description>
+      <description>See the GitHub repository the history of changes.
+2018-04-06  Move date of assignment 1 to Fri, April 13th Fix links for all assignments on schedule  2018-04-04  Add instructions for final project Add dates for project assignments to the schedule Add dates for assignments to schedule  2018-04-02  Remove old schedule / project  2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule. Remove r4ds notes page  2018-03-27  Add office hours for Jeff and Calvin.</description>
     </item>
     
     <item>
@@ -55,16 +55,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
     </item>
     
     <item>
-      <title>Git: Project Submission and Workflow</title>
-      <link>/2018/pages/git-project-workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/git-project-workflow/</guid>
-      <description>For the project assignments, each student has a repository named UW-POLS501/:username where :username is the GitHub username of the student. This does not need to be forked. The student works directly on that repository, and submits assignments by opening an issue on UW-POLS501/:username/issue.
- {&#34;x&#34;:{&#34;diagram&#34;:&#34;sequenceDiagram\n participant remote as UW-POLS501/student\n participant local as local repository\n remote-local: Clone repository\n Note over remote: Assignment 1\n loop Until completed\n local-local: Work and commit\n local-remote: Push changes\n end\n remote-remote: Open issue to submit\n Note over remote: Assignment 2\n loop Until completed\n local-local: Work and commit\n local-remote: Push changes\n end\n remote-remote: Open issue to submit&#34;</description>
-    </item>
-    
-    <item>
       <title>Installing R</title>
       <link>/2018/pages/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,16 +62,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
       <guid>/2018/pages/install/</guid>
       <description>Installing or Updating R Install R The R website is … special. Since you probably don’t know or care what a mirror is, here are links to the
  Go to the R Project website Choose the Download and install R your operation system:  Mac: Download R-3.4.3.pkg Windows: First click on base and then on Download R 3.4.3 for Windows    Upgrade R If you already have R installed, to check that you have the newest version of R, run</description>
-    </item>
-    
-    <item>
-      <title>Notes on R for Data Science</title>
-      <link>/2018/pages/r4ds-notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/r4ds-notes/</guid>
-      <description>Visualization Other resources:
- All the graph things Stat 545. Jenny Bryan.   Tibbles Why might you want to create non-syntactic variable names? Since variable names are often used as in plots (e.g. axis-titles) or headers in tables, where having spaces or other characters that are invalid R variable names is useful. Those functions will have ways to use text other than the column, but using the non-syntactic variable name can be convenient.</description>
     </item>
     
     <item>
@@ -93,17 +73,6 @@ Relationship between GitHub and Local Git Projects  References  Jenny Bryan, Hap
       <description>Please complete the following before Wednesday, March 28, 2018.
 Sign up for our Slack workplace, https://uwpolsmethods.slack.com/. We will use this for announcements, and asking and answering questions in this course. You should have received an invite. If not email the instructor to receive one.
  Tell us about yourself: Complete the pre-course survey. If you are registered for the course, you should have received an email. If not, you can find a link pinned on the #announcements channel of Slack.</description>
-    </item>
-    
-    <item>
-      <title>References</title>
-      <link>/2018/pages/references/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/pages/references/</guid>
-      <description>Articles and books references in this course. Download these references as bibtex file here.
-Angrist, Joshua D, and Jörn-Steffen Pischke. 2010. “The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con Out of Econometrics.” Journal of Economic Perspectives 24 (2). American Economic Association:3–30. https://doi.org/10.1257/jep.24.2.3.
- Bailey, Michael A., Anton Strezhnev, and Erik Voeten. 2016. “Estimating Dynamic State Preferences from United Nations Voting Data.” Journal of Conflict Resolution 61 (2).</description>
     </item>
     
   </channel>

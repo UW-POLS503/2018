@@ -19,10 +19,10 @@
     
 
     
-
-
-<link href='//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
-
+  
+  
+    <link href="//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css" rel="stylesheet" type="text/css" />
+  
 
 
     <link rel="stylesheet" href="/2018/bootstrap-4.0.0-beta.2-dist/css/bootstrap.min.css">
@@ -35,13 +35,12 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-
   <a class="navbar-brand" href="/2018/">POLS 503 </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarsItems">
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav mr-auto">
     
       <li class="nav-item">
@@ -53,17 +52,23 @@
       </li>
     
       <li class="nav-item">
-        <a class="nav-link" href="/2018/projects/">Projects</a>
+        <a class="nav-link" href="/2018/projects/">Project</a>
       </li>
     
       <li class="nav-item">
         <a class="nav-link" href="/2018/schedule/">Schedule</a>
       </li>
     
-    </ul>
+      <li class="nav-item">
+        <a class="nav-link" href="/2018/">Syllabus</a>
+      </li>
     
+    
+    </ul>
   </div>
 </nav>
+
+
 
     
 <main class="container">
@@ -75,22 +80,32 @@
 <li><p>Tell us about yourself: Complete the pre-course survey. If you are registered for the course, you should have received an email. If not, you can find a link pinned on the <code>#announcements</code> channel of Slack.</p></li>
 <li><p>We will use <a href="https://git-scm.com/">git</a> for version control and <a href="https://github.com/">GitHub</a> for distributing, collecting, and commenting on assignments.</p>
 <ol style="list-style-type: decimal">
-<li>Download <a href="https://git-scm.com/downloads">Git</a> and install git. You should be able to use defaults for all settings.</li>
+<li>Download <a href="https://git-scm.com/downloads">Git</a> and install git.
+You should be able to use defaults for all settings.</li>
 <li>Sign up for a GitHub account at <a href="https://github.com" class="uri">https://github.com</a> (if you do no already have one).</li>
-<li>Tell us what your GitHub username is using the form emailed to you, or that can be found pinned on the <code>#onboarding</code> channel in Slack.</li>
+<li>Tell us what your GitHub username is using the form emailed to you,
+or that can be found pinned on the <code>#onboarding</code> channel in Slack.</li>
 </ol></li>
 <li><p>Download and install the latest version of R.</p>
 <ol style="list-style-type: decimal">
-<li><p>If you have R installed already, check that you have the latest version of R. As of the start of this course (March 26, 2018), the most recent version of R is <strong>3.4.4</strong>. You can find this in R:</p>
+<li><p>If you have R installed already, check that you have the latest version of R.
+As of the start of this course (March 26, 2018), the most recent version of R is <strong>3.4.4</strong>.
+You can find this in R:</p>
 <pre class="rconsole"><code>$ sessionInf()</code></pre></li>
 <li><p>If you do not have R or the latest version of it installed, then download it from <a href="https://cloud.r-project.org/">CRAN</a>.</p></li>
 </ol></li>
-<li><p>(Recommended) Download that install RStudio Desktop (Open Source Edition). RStudio is an <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a> that provides a user-friendly interface to R. If you are proficient with R and have been using another IDE or text editor with R, you can skip this step.</p>
+<li><p>(Recommended) Download that install RStudio Desktop (Open Source Edition). RStudio is an <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a> that provides a user-friendly interface to R.
+If you are proficient with R and have been using another IDE or text editor with R, you can skip this step.</p>
 <ol style="list-style-type: decimal">
 <li><p>If you do not have RStudio installed, download and install it from <a href="https://www.rstudio.com/products/rstudio/download/#download">here</a>.</p></li>
-<li><p>If you already have RStudio installed, check that you have the latest version by selecting <code>Help &gt; Check for Updates</code> in the menu. Download and install the newest version if not.</p></li>
+<li><p>If you already have RStudio installed, check that you have the latest version
+by selecting <code>Help &gt; Check for Updates</code> in the menu. Download and install
+the newest version if not.</p></li>
 </ol></li>
-<li><p>(Recommended) Download and install LaTeX if you don’t have it installed. You will not need to use LaTeX directly (though I encourage you to use it for academic writing), but it is needed to create PDFs from R Markdown. There are multiple LaTeX distributions; install the appropriate one for your operating system.</p>
+<li><p>(Recommended) Download and install LaTeX if you don’t have it installed.
+You will not need to use LaTeX directly (though I encourage you to use it for academic writing),
+but it is needed to create PDFs from R Markdown.
+There are multiple LaTeX distributions; install the appropriate one for your operating system.</p>
 <ol style="list-style-type: decimal">
 <li>On MacOS, install <a href="http://www.tug.org/mactex/">MacTeX</a>.</li>
 <li>On Windows, install <a href="https://miktex.org/howto/install-miktex">MikTeX</a>.</li>
@@ -124,11 +139,22 @@
 
 <script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
 <script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/yaml.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/bash.min.js"></script>
 <script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
 
 
 
     
+<script src="/2018/js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+    
+<script src="/2018/js/jquery-3.2.1.slim.min.js"></script>
+<script src="/2018/js/popper.js"></script>
+
+
+<script src="/2018/bootstrap-4.0.0-beta.2-dist/js/bootstrap.min.js"></script>
 
 
   </body>

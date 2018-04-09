@@ -1,9 +1,0 @@
----
-lab: false
-draft: false
-date: 2018-04-11
-readings: []
-optional: []
-course_week: 3
-description: ""
----

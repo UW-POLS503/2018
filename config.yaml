@@ -1,16 +1,21 @@
 baseurl: https://UW-POLS501.github.io/2018/
 ignoreFiles: [\.Rmd$, \.Rmarkdown$, _files$, _cache$]
 languageCode: en-US
+buildFuture: true
+blackfriday:
+  # otherwise DOI forward slashes become fractions
+  fractions: false
 menu:
   main:
+  - {name: Syllabus, url: "/"}
   - {name: Schedule, url: /schedule/}
+  - {name: Project, url: /projects/}
   - {name: Assignments, url: /assignments/}
-  - {name: Projects, url: /projects/}
   - {name: Pages, url: /pages/}
 params:
   useBootstrap: true
   highlightjsCDN: '//cdn.bootcss.com'
-  highlightjsLang: [r, yaml]
+  highlightjsLang: [r, yaml, bash]
   highlightjsTheme: github
   highlightjsVersion: 9.11.0
   MathJaxCDN: '//cdn.bootcss.com'
@@ -37,8 +42,8 @@ params:
         building: Savery
         number: '121'
         url: "https://www.washington.edu/maps/#!/sav"
-      startTime: '2018-04-02T13:30:00-07:00'
-      endTime: '2018-04-02T15:20:00-07:00'
+      startTime: '2018-03-30T13:30:00-07:00'
+      endTime: '2018-03-30T15:20:00-07:00'
       lab: true
   course:
     institution: 'University of Washington'
@@ -69,8 +74,8 @@ params:
     email: 'chgarner@uw.edu'
     name: 'Calvin Garner'
     officeHours:
-      room: "Gowen 30"
-      time: ""
+      room: Gowen 30
+      time: 'W 12&ndash;2 pm'
       buildingURL: "https://www.washington.edu/maps/#!/gow"
     title: 'Graduate Student, Political Science'
     url: 'https://www.polisci.washington.edu/people/calvin-garner'

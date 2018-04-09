@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instrumental Variables on POLS 503: Advanced Quantitative Political Methodology</title>
+    <link>/2018/tags/instrumental-variables/</link>
+    <description>Recent content in Instrumental Variables on POLS 503: Advanced Quantitative Political Methodology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/2018/tags/instrumental-variables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 9</title>
+      <link>/2018/schedule/week-9/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/schedule/week-9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+---
+title: "Proposal"
+date: "2018-04-25T16:30:00-07:00"
+output: html_document
+weight: 20
+---
+
+Propose a final project. 
+
+## Submission
+
+1.  Open an issue on that student's project repository, e.g. `https://github.com/studnet/pols-503-2018-project/` titled "Proposal"
+2.  Since the proposal is short, you can write your proposal in the comment. Alternatively attach a file or reference a text file in your repository.
+3.  Assign the issue to the instructors.
+4.  After receiving comments from the instructors, the student must reply in a comment to address these comments and suggestions.
+
+## Instructions
+
+The proposal should include the following:
+
+1. Discuss the research question, data, design, and expected methods.
+2. Discuss whether all data for the project is available. Given the compressed time-frame of a quarter, the student should have all necessary data on hand, and ideally the project should minimize the amount of data wrangling.
+3.  Discuss current and expected difficulties and problems with the project. This is an opportunity to raise and resolve problems early.

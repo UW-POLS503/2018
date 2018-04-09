@@ -1,0 +1,17 @@
+---
+title: "Final Submission"
+author: "Jeffrey Arnold"
+date: "2018-06-07T23:59:00-07:00"
+output: html_document
+weight: 100
+---
+
+Submit the final research project. See the final project page for details on expectations and format.
+
+No late assignments will be accepted. If no issue is opened, then the current state of the repository will be reviewed.
+
+## Submission
+
+1.  Open an issue on that student's project repository, e.g. `https://github.com/studnet/pols-503-2018-project/` titled "Final submission"
+2.  In the comment of the issue indicate how you have resolved any and all issues raised by comments of the instructor or peer review.  If you cannot resolve one of those issues, indicate why. 
+3.  Assign the issue to the instructors.
