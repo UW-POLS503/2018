@@ -6,77 +6,12 @@
     <description>Recent content in POLS/CS&amp;SS 503 (Spring 2018) on POLS 503: Advanced Quantitative Political Methodology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
-=======
     <lastBuildDate>Wed, 25 Apr 2018 16:30:00 -0700</lastBuildDate>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
     
 	<atom:link href="/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-06-01/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-06-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-30/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-28/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-28/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-25/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-23/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-21/</link>
-      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-18/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-18/</guid>
-=======
       <title>Proposal</title>
       <link>/2018/projects/proposal/</link>
       <pubDate>Wed, 25 Apr 2018 16:30:00 -0700</pubDate>
@@ -135,286 +70,87 @@ Submission Open an issue on that student’s project repository, e.g. https://gi
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-10/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-05-16/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-16/</guid>
-=======
       <title>Week 9</title>
       <link>/2018/schedule/week-9/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-9/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-05-14/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-11/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-09/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-09/</guid>
-=======
       <title>Week 8</title>
       <link>/2018/schedule/week-8/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-8/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-05-07/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-07/</guid>
-=======
       <title>Week 7</title>
       <link>/2018/schedule/week-7/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-7/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-05-04/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-04/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-05-02/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-05-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-30/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-27/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-27/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-25/</link>
-      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-25/</guid>
-=======
       <title>Week 6</title>
       <link>/2018/schedule/week-6/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-6/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-04-23/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-23/</guid>
-=======
       <title>Week 5</title>
       <link>/2018/schedule/week-5/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-5/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-04-20/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-18/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-16/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-13/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-11/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-11/</guid>
-=======
       <title>Week 4</title>
       <link>/2018/schedule/week-4/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-4/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-04-09/</link>
-      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-06/</link>
-      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-04-04/</link>
-      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-04/</guid>
-=======
       <title>Week 3</title>
       <link>/2018/schedule/week-3/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-3/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-04-02/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-04-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-03-30/</link>
-      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-03-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/2018/schedule/2018-03-28/</link>
-      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-03-28/</guid>
-=======
       <title>Week 2</title>
       <link>/2018/schedule/week-2/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-2/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title></title>
-      <link>/2018/schedule/2018-03-26/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/schedule/2018-03-26/</guid>
-=======
       <title>Week 1</title>
       <link>/2018/schedule/week-1/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/schedule/week-1/</guid>
->>>>>>> 11685b6e7f421ea726d4ead51c444dda4bf3f7bb
       <description></description>
     </item>
     
@@ -425,7 +161,7 @@ Submission Open an issue on that student’s project repository, e.g. https://gi
       
       <guid>/2018/pages/changelog/</guid>
       <description>See the GitHub repository the history of changes.
-2018-04-06  Move date of assignment 1 to Fri, April 13th Fix links for all assignments on schedule  2018-04-04  Add instructions for final project Add dates for project assignments to the schedule Add dates for assignments to schedule  2018-04-02  Remove old schedule / project  2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule. Remove r4ds notes page  2018-03-27  Add office hours for Jeff and Calvin.</description>
+2018-04-09  Add matrix algebra readings for 2018-04-11.  2018-04-06  Move date of assignment 1 to Fri, April 13th Fix links for all assignments on schedule  2018-04-04  Add instructions for final project Add dates for project assignments to the schedule Add dates for assignments to schedule  2018-04-02  Remove old schedule / project  2018-03-30  Added readings for weeks 2&amp;ndash;10 to the schedule.</description>
     </item>
     
     <item>

@@ -4,6 +4,11 @@ title: CHANGELOG
 
 See the [GitHub repository](https://github.com/UW-POLS503/2018/commits/master) the history of changes.
 
+## 2018-04-09
+
+-   Add matrix algebra readings for 2018-04-11.
+
+
 ## 2018-04-06
 
 -   Move date of assignment 1 to Fri, April 13th
