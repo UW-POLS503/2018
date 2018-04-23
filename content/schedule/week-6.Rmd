@@ -16,14 +16,14 @@ meetings:
   before:
     - title: "*Mastering 'Metrics*, Ch. 2: \"Regression\""
     - title: "*Mastering 'Metrics*, Ch. 6.1: \"Schooling, Experience, and Earnings\""
+    - title: >-
+        Gelman and Hill (2007) "[Causal inference using more advanced models](http://www.stat.columbia.edu/~gelman/arm/chap10.pdf)", Chapter 10 in *Data Analysis Using Regression and Multilvel/Hierarchical Models*. 
+      note: >-
+        Read the sections on balance and matching.    
+
   after: []
-    # - https://wol.iza.org/uploads/articles/186/pdfs/matching-as-regression-estimator.pdf
-    # - https://chrisblattman.com/2010/10/27/the-cardinal-sin-of-matching/
-    # - https://projecteuclid.org/euclid.ss/1280841730
+    # - 
     # - WhatIf stuff
-    # - Causal Inference in Gelman and Hill
-    # - OVB on the right hand side
-    # - https://gking.harvard.edu/files/pspara-uk.pdf
     # - perils of all-cause model
   tags:
   - []
@@ -31,8 +31,35 @@ meetings:
 - date: '2018-05-02'
   week: 6
   weekday: Wednesday
-  tags:
-  - []
+  before:
+  - title: >
+      Nunn and Wantchekon (2011) "[The Slave Trade and the Origins of Mistrust in Africa](https://dx.doi.org/10.1257/aer.101.7.3221)" *American Economic Review*.
+    note: >
+      Focs on their strategy for evaluating the plausibility of OVB.
+  - title: >-
+      [Matching as a Regression Estimator](https://wol.iza.org/uploads/articles/186/pdfs/matching-as-regression-estimator.pdf)
+  - title: >-
+      Aronow and Samii (2015) "[Does Regression Produce Representative Estimates of Causal Effects?](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12185)" *American Journal of Political Science*
+    note: >-
+      Skim. What observations are most important in estimating the effect of a coefficient? 
+  - title: >-
+      Keele, Elwert, Stevenson (2015) "[The Perils of the All Cause Model](https://csap.yale.edu/sites/default/files/files/keele.pdf)"
+    note: >-
+      Skim. Why shouldn't you interpret the coefficients of controls in a regression? 
+  - title: >-
+      Iacus, King, and Porro (2012) "[Causal Inference Without Balance Checking: Coarsened Exact Matching](http://j.mp/2nRpUHQ)." *Political Analysis*
+    note: >-
+      Skim. What does matching do? How does it differ from regression What is balance? 
+  - title: >-
+      Gary King and Langche Zeng. 2006. "[The Dangers of Extreme Counterfactuals](http://j.mp/2nyB0iZ)” *Political Analysis*
+    note: >-
+      Skim. What are extreme counterfactuals? What is the relationship between model specification and overlap?
+  - title: >-
+      Ho, Imai, King, and Stuart. 2007. "[Matching as Nonparametric Preprocessing for Reducing Model Dependence in Parametric Causal Inference]( http://j.mp/2oD70EE)" *Political Analysis*
+    note: >-
+      Skim. What can matching do? 
+  - title: >-
+      Imai, Keele, Tingley, and Yamamoto. (2011). "[Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies](https://imai.princeton.edu/research/mediationP.html)'' *American Political Science Review*.
   lab: no
 - date: '2018-05-04'
   week: 6

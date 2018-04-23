@@ -13,19 +13,40 @@ due:
   date: "2018-04-25T16:30:00"
 - title: "Assignment 2"
   date: 2018-04-23 16:30:00
-  url: "https://github.com/UW-POLS503/assignment-2018-02"  
+  url: "https://github.com/UW-POLS503/assignment-2018-02"
 meetings:
 - date: '2018-04-23'
   week: 5
   weekday: Monday
   before:
     - title: "*Mastering 'Metrics*, Ch. 1: \"Randomized Trials\""
+    - title: >-
+        EGAP "[10 Things to Know About Causal Inference](https://egap.org/methods-guides/10-things-you-need-know-about-causal-inference)"
+    - title: >-
+        EGAP "[10 Strategies for Figuring out if X Caused Y](https://egap.org/methods-guides/10-strategies-figuring-out-if-x-caused-y)"
+  after:
+    - title: >-
+        EGAP "[10 Types of Treatment Effect You Should Know About](https://egap.org/methods-guides/10-types-treatment-effect-you-should-know-about)"
+    - title: >-
+        EGAP "[10 Things to Know About the Local Average Treatment Effect](https://egap.org/methods-guides/10-things-you-need-know-about-local-average-treatment-effect)"
+
   tags:
   - []
   lab: no
 - date: '2018-04-25'
   week: 5
   weekday: Wednesday
+  before: 
+    - title: >-
+        Gelman and Hill (2007) "[Causal inference using more advanced models](http://www.stat.columbia.edu/~gelman/arm/chap10.pdf)", Chapter 10 in *Data Analysis Using Regression and Multilvel/Hierarchical Models*. 
+      note: >-
+        Read the sections on balance and matching.
+    - title: >-
+        Keele (2015) "[The Statistics of Causal Inference: A View from Political Methodology](https://doi.org/10.1093/pan/mpv007)" *Political Analysis*. 
+      note: >- 
+        Skim.
+    - title: >-
+        Rohrer (2018) "[Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://doi.org/10.1177/2515245917745629)" *Advances in Methods and Practices in Psychological Science*
   tags:
   - []
   lab: no
