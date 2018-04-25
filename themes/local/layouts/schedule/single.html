@@ -17,9 +17,11 @@
     <hr>
     <h4>{{ dateFormat "Jan 2 (Monday)" .date }}</h4>
 
+    {{ with .tags }}
     <p>
-      <emph>Topics</emph>: {{ delimit .tags "; " }}
+      <emph>Topics</emph>: {{ delimit . "; " }}
     </p>
+    {{ end }}
 
     <h5>Due</h5>
     <p>
