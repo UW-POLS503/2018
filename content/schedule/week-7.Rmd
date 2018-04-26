@@ -6,8 +6,8 @@ tags:
 - difference-in-difference
 week: 7
 due:
-- title: "Assignment 4"
-  date: 2018-04-23 16:30:00
+- title: "Assignment 3"
+  date: "2018-05-07T16:30:00"
   url: "https://github.com/UW-POLS503/assignment-2018-04"
 meetings:
 - date: '2018-05-07'
