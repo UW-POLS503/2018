@@ -5,9 +5,9 @@ tags:
 - instrumental variables
 week: 9
 due:
-- title: "Assignment 5"
-  url: "https://github.com/UW-POLS503/assignment-2018-06"
-  date: "2018-05-21T16:30"
+- title: Assignment 4
+  url: "https://github.com/UW-POLS503/assignment-2018-04"
+  date: "2018-05-14T16:30:00"
   
 meetings:
 - date: '2018-05-21'
